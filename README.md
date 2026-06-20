@@ -1,10 +1,4 @@
-# CS-4063 Natural Language Processing — Assignment 3
 ## Transformer-based Review Understanding with RAG Enhanced Explanation Generation
-
-**University:** FAST National University of Computer & Emerging Sciences  
-**Course:** CS-4063 — Natural Language Processing  
-**Total Marks:** 80 + 5 Bonus  
-**Due Date:** 29-04-2026, 11:59 PM
 
 ---
 
@@ -447,7 +441,3 @@ Dataset Setup:
 Directory Setup:
   - models/ and results/ directories are created automatically by the notebook
 ```
-
----
-
-*Good Luck!*
